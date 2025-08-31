@@ -86,7 +86,7 @@ export default function HomePage() {
                   seluruh keluarga di Padukuhan Semaken II.
                 </p>
                 <div className="border-l-4 border-green-500 pl-4">
-                  <p className="font-semibold text-gray-900">Bapak Suyanto</p>
+                  <p className="font-semibold text-gray-900">Bapak Suryanto</p>
                   <p className="text-sm text-gray-600">Kepala Dukuh Semaken II</p>
                 </div>
               </div>
