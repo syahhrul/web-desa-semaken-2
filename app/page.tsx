@@ -11,19 +11,19 @@ export default function HomePage() {
       title: "Lomba 17 Agustus",
       date: "09 Agustus 2025",
       description: "Perlombaan seru dalam rangka menyambut HUT RI",
-      image: "/lomba-17an.jpg",
+      image: "/lomba-17an.JPG",
     },
     {
       title: "Malam Tirakatan 17 Agustus",
       date: "16 Agustus 2025",
       description: "Acara pentas seni dan pembagian hadiah lomba",
-      image: "/tirakatan.jpg",
+      image: "/tirakatan.JPG",
     },
     {
       title: "Malam Puncak 17 Agustus",
       date: "22 Agustus 2025",
       description: "Penampilan pentas seni dan pertunjukan angguk",
-      image: "/malam-puncak.jpg",
+      image: "/malam-puncak.JPG",
     },
   ]
 
